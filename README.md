@@ -18,7 +18,7 @@ I have been tasked to study the factors that affect housing prices using the giv
 5. Incorporating categorical independent variables into the models.
 6. Checking for multicollinearity
 7. Providing a recommendation based on my analysis:
-  * Creating residual plots for my models, and assessing heteroskedasticity using Barlett's test.
+    * Creating residual plots for my models, and assessing heteroskedasticity using Barlett's test.
 8. Challenging my solution by providing insights on how to make improvements in the model.
 
 # Setup/Installation Requirements
